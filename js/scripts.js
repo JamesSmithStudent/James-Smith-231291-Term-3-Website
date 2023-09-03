@@ -42,14 +42,14 @@ let products = [
  {
     id: 4,
     name: 'European Coast',
-    image: '263142.png',
+    image: 'Virgin-Voyages-Scarlet-Lady.webp',
     price: 8000
  },
 
  {
     id: 5,
     name: 'Atlantic Coast',
-    image: 'Shipboard-Onbourd-Depts.webp',
+    image: 'Shipboard-Onboard-Depts.webp',
     price: 9000
  }
 ];
